@@ -28,6 +28,7 @@ html {
   color: #ffffff;
   font-family: "Roboto";
   overflow-x: hidden;
+  user-select: none;
 }
 
 * {
